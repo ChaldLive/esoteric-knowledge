@@ -1,0 +1,15 @@
+site_name: Esoteric Knowledge
+docs_dir: wiki
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - tasklist
+  - fenced_code
+  - toc:
+      permalink: true
