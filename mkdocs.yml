@@ -12,5 +12,3 @@ markdown_extensions:
   - fenced_code
   - toc:
       permalink: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
