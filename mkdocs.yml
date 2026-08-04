@@ -9,7 +9,8 @@ plugins:
 
 markdown_extensions:
   - tables
-  - tasklist
   - fenced_code
   - toc:
       permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
