@@ -1,4 +1,4 @@
-name: Deploy wiki to GitHub Pages
+name: Deploy MkDocs site
 
 on:
   push:
@@ -17,40 +17,43 @@ concurrency:
 
 jobs:
   build:
+    name: Build website
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.x"
+          python-version: "3.13"
+          cache: pip
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Install MkDocs
+        run: python -m pip install mkdocs-material
 
       - name: Build website
-        run: mkdocs build
+        run: mkdocs build --config-file mkdocs.yaml
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
       - name: Upload website
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: site
 
   deploy:
+    name: Deploy website
+    runs-on: ubuntu-latest
+    needs: build
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
-    runs-on: ubuntu-latest
-    needs: build
-
     steps:
-      - name: Deploy website
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
