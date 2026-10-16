@@ -23,9 +23,9 @@ Bailey distinguishes between:
 
 The quality of thought — its purity, coherence, and motivation — determines the quality of the elemental attracted to build it.
 
-## Relationship to [[Manas]]
+## Relationship to [[manas]]
 
-Thought elementals are the natural kingdom corresponding to the mental plane, as physical elementals are to the physical. [[Manas]] — the mind principle — is their element; [[solar-fire]] their animating energy.
+Thought elementals are the natural kingdom corresponding to the mental plane, as physical elementals are to the physical. [[manas]] — the mind principle — is their element; [[solar-fire]] their animating energy.
 
 ## Dangers
 

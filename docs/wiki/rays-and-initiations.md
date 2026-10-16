@@ -74,4 +74,6 @@ R&I develops the teaching on Shamballa — the centre of will/power — more ful
 - The rays it applies → [[the-rays]]
 - The causal body it destroys → [[egoic-ray]]
 - The monad it reveals → [[monad]]
+- The disciple's stages of contact it correlates with these initiations → [[discipleship]]
+- The earlier, educational seed of its antahkarana teaching → [[education-in-the-new-age]]
 - The spine this book elaborates → [[the-three-fires|*A Treatise on Cosmic Fire*]]

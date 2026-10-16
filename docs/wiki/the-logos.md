@@ -30,7 +30,9 @@ The evolution of our solar system is the evolution of the Solar Logos — it is 
 
 Each planet is the body of a Planetary Logos. The seven sacred planets correspond to the seven Rays (see [[the-rays]]). The non-sacred planets are at an earlier stage of development. The Planetary Logos of Earth is said to be at a particular point in its initiatory unfoldment.
 
-## The Logos and [[Manas]]
+For the Earth scheme, the Planetary Logos takes etheric-physical incarnation directly as **Sanat Kumara**, the "First Kumara," resident at Shamballa — one of the rare cases in this cosmology where the macrocosmic Logos and a describable, locatable Individuality coincide. See [[kumaras]].
+
+## The Logos and [[manas]]
 
 The entire solar system is described as the mental plane product of the Solar Logos's thought. Creation is a thought-form of the Logos — which gives [[thought-elementals]] and [[fire-elementals]] their ultimate cosmic context.
 

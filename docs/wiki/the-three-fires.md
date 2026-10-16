@@ -35,7 +35,7 @@ Bailey explicitly states that [[electric-fire]] (Section Three) cannot be fully 
 
 ## Relationship to the Stanzas of Dzyan
 
-[[Stanzas-of-dzyan]] form the root-text. The three fires are the key with which Bailey reads and elaborates them.
+[[stanzas-of-dzyan]] form the root-text. The three fires are the key with which Bailey reads and elaborates them.
 
 ## Threads elaborated in other Bailey volumes
 

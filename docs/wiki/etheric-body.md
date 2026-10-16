@@ -23,12 +23,12 @@ The etheric body is a web of nadis — fine threads of energy — forming a lumi
 ## Etheric Body and the Three Fires
 
 - Its substance is part of the domain of [[fire-by-friction]]
-- [[Prana]] animating it is a form of solar fire at the physical level
+- [[prana]] animating it is a form of solar fire at the physical level
 - The chakras, when fully activated, express [[electric-fire]] through the form
 
 ## Planetary and Solar Etheric Bodies
 
-The [[macrocosm-microcosm]] principle applies: the planet has an etheric body (the etheric planes of Earth), and so does the solar system. [[Prana]] flows between them.
+The [[macrocosm-microcosm]] principle applies: the planet has an etheric body (the etheric planes of Earth), and so does the solar system. [[prana]] flows between them.
 
 ## Threads to follow
 

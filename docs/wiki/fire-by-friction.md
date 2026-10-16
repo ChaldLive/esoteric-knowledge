@@ -38,7 +38,7 @@ The [[fire-elementals]] (Agnichaitans) are the builders and animators of the phy
 
 ## Relationship to Kundalini
 
-[[Kundalini]] is the concentrated, latent form of Fire by Friction in the human system. Its arousal — always under the influence of [[solar-fire]] — is part of the initiatory process. Premature arousal is explicitly warned against.
+[[kundalini]] is the concentrated, latent form of Fire by Friction in the human system. Its arousal — always under the influence of [[solar-fire]] — is part of the initiatory process. Premature arousal is explicitly warned against.
 
 ## Threads to follow
 

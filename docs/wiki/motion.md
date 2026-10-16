@@ -25,13 +25,13 @@ TCF identifies several modes of motion corresponding to the planes and fires:
 
 The evolution of consciousness is the evolution from rotary through spiral-cyclic to progressive motion.
 
-## Motion and the [[Law-of-Economy]]
+## Motion and the [[law-of-economy]]
 
 The [[law-of-economy]] manifests as a tendency toward rotary motion — atoms spin. This is the baseline activity of matter, self-contained and returning on itself.
 
-## Motion and [[Solar-Fire]]
+## Motion and [[solar-fire]]
 
-[[Solar-fire]] introduces spiral-cyclic motion — evolution, the ascending spiral. The same circuit is traversed but at a higher level each time. This is the signature of soul-guided development.
+[[solar-fire]] introduces spiral-cyclic motion — evolution, the ascending spiral. The same circuit is traversed but at a higher level each time. This is the signature of soul-guided development.
 
 ## Motion at Cosmic Scale
 

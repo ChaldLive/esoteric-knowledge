@@ -21,7 +21,7 @@ The vital life energy that animates all living forms. In TCF it is treated at th
 |-------|---------|--------|
 | Solar system | Solar etheric body | The Solar Logos |
 | Planet | Planetary etheric body | The Sun (via Planetary Logos) |
-| Human | [[Etheric-body\|Human etheric body]] | The planet / sun |
+| Human | [[etheric-body|Human etheric body]] | The planet / sun |
 
 The prana of the solar system is the animating life of [[the-logos|the Solar Logos]] itself — which gives an esoteric meaning to sunlight as a literal vehicle of Logoic energy.
 
@@ -29,7 +29,7 @@ The prana of the solar system is the animating life of [[the-logos|the Solar Log
 
 Correct reception and distribution of prana through the [[etheric-body]] is the basis of physical health. Obstruction, excess, or imbalance produce disease. This is the root of Bailey's later treatment in *Esoteric Healing*.
 
-## Relationship to [[Electric-Fire|Electric Fire]]
+## Relationship to [[electric-fire|Electric Fire]]
 
 Bailey notes (citing the Nicodemus passage) that the word translated "Spirit" in the New Testament can also be read as "prana" — pointing to a deep identification between vital breath and spirit at the cosmic level.
 

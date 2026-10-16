@@ -25,7 +25,7 @@ Rays I–III are the rays of aspect (the [[the-three-fires]] in qualitative form
 
 ## Rays and the Logos
 
-Each of the seven sacred planets embodies one of the seven rays. [[The-logos|The Solar Logos]] itself is on the second Ray of Love-Wisdom — this is said to be the dominant quality of the present solar system.
+Each of the seven sacred planets embodies one of the seven rays. [[the-logos|The Solar Logos]] itself is on the second Ray of Love-Wisdom — this is said to be the dominant quality of the present solar system.
 
 ## Rays and the Human Being
 

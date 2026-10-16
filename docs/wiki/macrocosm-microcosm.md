@@ -25,7 +25,7 @@ The three fires repeat at every scale:
 | Scale | Entity | Vehicle |
 |-------|--------|---------|
 | Cosmic | Cosmic Logos | A constellation |
-| Solar | [[The-logos\|Solar Logos]] | The solar system |
+| Solar | [[the-logos|Solar Logos]] | The solar system |
 | Planetary | Planetary Logos | A planet |
 | Human | The human being | A physical body |
 | Atomic | The atom | Atomic structure |

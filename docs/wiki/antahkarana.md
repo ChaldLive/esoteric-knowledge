@@ -1,7 +1,7 @@
 ---
 title: Antahkarana
 tags: [antahkarana, bridge, manas, solar-fire, electric-fire, initiation, rainbow-bridge, monad, triad, rays]
-sources: [alice-bailey-treatise-on-cosmic-fire.txt, alice-bailey-rays-and-the-initiations.pdf]
+sources: [alice-bailey-treatise-on-cosmic-fire.txt, alice-bailey-rays-and-the-initiations.pdf, alice-bailey-education-in-the-new-age.txt, alice-bailey-discipleship-in-the-new-age-vol-1.txt, alice-bailey-discipleship-in-the-new-age-vol-2.txt]
 status: solid
 ---
 
@@ -12,7 +12,7 @@ Sanskrit: "inner instrument." In Bailey's system the antahkarana is the bridge o
 > "Before a man can tread the Path, he must become that Path himself."
 > — R&I
 
-The primary source for the full teaching is *The Rays and the Initiations* (R&I). [[Rays-and-initiations|TCF]] establishes the conceptual framework — planes, fires, threads, the three aspects of mind — that makes the science intelligible. R&I delivers the technique.
+The primary source for the full teaching is *The Rays and the Initiations* (R&I). [[rays-and-initiations|TCF]] establishes the conceptual framework — planes, fires, threads, the three aspects of mind — that makes the science intelligible. R&I delivers the technique.
 
 ---
 
@@ -144,6 +144,27 @@ At the **fourth initiation** the causal body dissolves. R&I reads this through t
 
 ---
 
+## The Sister Sciences: Meditation and Service
+
+[[education-in-the-new-age|*Education in the New Age*]] names the Science of the Antahkarana
+alongside two companion sciences, and is explicit that neither is independent of the bridge-work
+described above:
+
+- **The Science of Meditation** is "a subsidiary branch, preparatory to the Science of the
+  Antahkarana" — it builds the bridge's first half (personality–soul) in mental substance. Its
+  unnamed extension, the "science of vision," builds the second half (soul–Triad) in light
+  substance. *Discipleship in the New Age* Vol. I dates this work identically to the antahkarana
+  table above: building "goes on until the third initiation."
+- **The Science of Service** is framed by EITN as the *result* of the other two succeeding, but
+  *Discipleship in the New Age* Vol. II states the reverse causation just as directly: service is
+  "the mode...which invokes the Spiritual Triad...forces the building of the antahkarana, and leads
+  in a graded series of renunciations to the Great Renunciation" — the 4th initiation.
+
+Full sourcing and the reconciliation of these two framings: [The Science of Meditation and the
+Science of Service, Correlated with Initiation](../outputs/meditation-and-service-and-initiation.md).
+
+---
+
 ## The Group Antahkarana
 
 R&I introduces a dimension the earlier Bailey corpus does not develop: the *group* antahkarana. As individual disciples build their bridges, they contribute threads to a larger collective structure. When the group antahkarana is sufficiently established, "Triadal perception" becomes possible for the group as a unit — direct reception of impression from the Spiritual Triad by the group consciousness collectively. This is the technical basis of group initiation and ashramic work as described throughout Part One of R&I.
@@ -167,8 +188,8 @@ The antahkarana is where [[the-three-fires|TCF's]] cosmological map becomes a li
 | [[monad]] | The source of the downward thread; the final destination of the ascending bridge |
 
 Without the antahkarana:
-- [[Solar-fire]] illuminates the soul but cannot reliably reach the waking brain
-- [[Electric-fire]] (will) remains inaccessible — the disciple is, in R&I's phrase, "cut off from the Father"
+- [[solar-fire]] illuminates the soul but cannot reliably reach the waking brain
+- [[electric-fire]] (will) remains inaccessible — the disciple is, in R&I's phrase, "cut off from the Father"
 - Intuition arrives as flashes, uncontrolled and unretained
 
 With the antahkarana complete:
@@ -188,3 +209,4 @@ With the antahkarana complete:
 - The rays that determine the projection technique → [[the-rays]]
 - The initiation milestones it makes possible → [[initiation]]
 - The source text for the building science → [[rays-and-initiations]]
+- The earlier, educational seed of this science → [[education-in-the-new-age]]

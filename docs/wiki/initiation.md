@@ -11,7 +11,7 @@ The graduated expansion of consciousness through which the three fires are progr
 
 ## The Nine Initiations
 
-TCF and *Initiation, Human and Solar* describe five human-kingdom initiations. [[Rays-and-initiations|*The Rays and the Initiations*]] extends the arc to nine, covering the post-human planetary and cosmic degrees.
+TCF and *Initiation, Human and Solar* describe five human-kingdom initiations. [[rays-and-initiations|*The Rays and the Initiations*]] extends the arc to nine, covering the post-human planetary and cosmic degrees.
 
 ### The Five Human-Kingdom Initiations
 
@@ -38,24 +38,32 @@ The 6th through 9th initiations are treated only briefly — they lie beyond the
 
 Each initiation is characterized by a specific interplay of the three fires:
 - The fires of [[fire-by-friction]] are progressively stilled and aligned
-- [[Solar-fire]] unfolds the petals of the egoic lotus
-- [[Electric-fire]] begins to be contacted at the third initiation
+- [[solar-fire]] unfolds the petals of the egoic lotus
+- [[electric-fire]] begins to be contacted at the third initiation
 
 ## The Kundalini Connection
 
-[[Kundalini]] rising through the spinal triangles is the physiological signature of initiatory progress. The fire, which has been latent, is awakened and directed upward by the growing influence of [[solar-fire]] (soul).
+[[kundalini]] rising through the spinal triangles is the physiological signature of initiatory progress. The fire, which has been latent, is awakened and directed upward by the growing influence of [[solar-fire]] (soul).
 
 ## Initiation at the Planetary and Cosmic Scale
 
-[[The-logos|The Planetary Logos]] is itself an initiate. The Earth's spiritual history is partly the story of its own Logos taking its next cosmic initiation. Human initiation is nested within — and participates in — this larger process.
+[[the-logos|The Planetary Logos]] is itself an initiate. The Earth's spiritual history is partly the story of its own Logos taking its next cosmic initiation. Human initiation is nested within — and participates in — this larger process.
 
 ## The Hierarchy
 
 The initiatory process is overseen by the Masters — beings who have already completed the human kingdom initiations and are now taking cosmic initiations. The Buddha, the Christ, and other figures in the hierarchy are located within this map.
+
+## Discipleship and Initiation
+
+*Discipleship in the New Age* correlates its six stages of discipleship (modes of contact with a
+Master) against this initiatory ladder — "Little Chelaship" opens at the 1st initiation,
+"Accepted Discipleship" spans the 1st and 2nd, and the 3rd initiation is the point at which the
+Hierarchy first regards a disciple as technically "initiate." See [[discipleship]].
 
 ## Threads to follow
 
 - The fire aroused in initiation → [[kundalini]]
 - The soul vehicle that unfolds → [[egoic-ray]]
 - The spirit contacted at the third initiation → [[monad]]
+- The disciple's changing rapport with the Master across this ladder → [[discipleship]]
 - Full elaboration of the nine initiations and group initiation: [[rays-and-initiations]]

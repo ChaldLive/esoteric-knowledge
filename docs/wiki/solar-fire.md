@@ -35,7 +35,7 @@ The causal body — the soul's vehicle — is described as a lotus of fire, its 
 
 ## Relationship to Manas
 
-Solar fire and [[manas]] are almost synonymous in TCF — mind is the expression of this fire in manifest form. [[The-logos|The Solar Logos]] is described as a cosmic mental entity.
+Solar fire and [[manas]] are almost synonymous in TCF — mind is the expression of this fire in manifest form. [[the-logos|The Solar Logos]] is described as a cosmic mental entity.
 
 ## Threads to follow
 

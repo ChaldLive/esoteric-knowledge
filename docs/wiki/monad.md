@@ -36,4 +36,5 @@ At the heart of the egoic lotus (the soul's causal body) there is said to be a j
 - The fire it expresses → [[electric-fire]]
 - Its reflection in the soul vehicle → [[egoic-ray]]
 - The initiation at which it becomes accessible → [[initiation]]
+- The disciple's growing rapport as monadic contact nears → [[discipleship]]
 - Full treatment: *The Rays and the Initiations* (Bailey)

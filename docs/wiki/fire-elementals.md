@@ -22,7 +22,7 @@ Bailey gives a broad classification of deva lives from the most elemental upward
 - **Agnichaitans of the physical plane**: the builders and animators of physical form
 - **Greater Agnichaitans**: deva intelligences governing regions of the etheric plane
 
-## Relationship to the [[Etheric-Body]]
+## Relationship to the [[etheric-body]]
 
 The etheric plane is the domain where Agnichaitans are most directly encountered in human experience. The [[etheric-body]] is built and maintained by these lives; health and disease are partially a function of their activity.
 

@@ -35,4 +35,5 @@ The [[personality-ray]] and the egoic ray must eventually come into alignment �
 - The soul vehicle → [[solar-fire]]
 - The personality ray it must align with → [[personality-ray]]
 - The spiritual will at the lotus centre → [[monad]]
+- The stage of discipleship that ends when this lotus is destroyed → [[discipleship]]
 - Full elaboration: *Esoteric Psychology* I & II (Bailey)

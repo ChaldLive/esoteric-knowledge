@@ -23,7 +23,7 @@ The seven planes of manifestation form the vertical axis of Bailey's cosmology, 
 
 ## The Physical Plane
 
-Has seven sub-planes, the four highest being the etheric sub-planes. The dense physical (solid, liquid, gas) occupies only the three lowest. [[Etheric-body|The etheric body]] is the vehicle on the higher sub-planes of the physical plane.
+Has seven sub-planes, the four highest being the etheric sub-planes. The dense physical (solid, liquid, gas) occupies only the three lowest. [[etheric-body|The etheric body]] is the vehicle on the higher sub-planes of the physical plane.
 
 ## The Planes and the Three Fires
 

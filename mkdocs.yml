@@ -1,11 +1,12 @@
 site_name: Esoteric Knowledge
-docs_dir: wiki
+docs_dir: docs
 
 theme:
   name: material
 
 plugins:
   - search
+  - roamlinks
 
 markdown_extensions:
   - tables

@@ -20,7 +20,7 @@ The Law of Attraction draws together that which belongs together. It is the law 
 - At the soul level: the magnetic pull of the higher self on the lower
 - At the cosmic level: the attraction of solar systems toward each other; the force that will eventually draw all back to the Logos
 
-## Attraction and [[Manas]]
+## Attraction and [[manas]]
 
 Mind (manas) works through attraction — the mind draws in ideas, perceives relationships, builds conceptual structures. The [[solar-fire]] expressing through manas is fundamentally an attractive force, as opposed to the dispersive tendency of the [[law-of-economy]].
 

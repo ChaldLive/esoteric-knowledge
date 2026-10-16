@@ -26,7 +26,7 @@ The personality has its own ray, but each of its vehicles also has a ray:
 
 The interaction of these four ray influences in a given life creates the psychological and energetic signature of that incarnation.
 
-## Relationship to [[Fire-by-Friction]]
+## Relationship to [[fire-by-friction]]
 
 The personality ray expresses through [[fire-by-friction]] — the fire of the lower bodies. It governs how that fire is qualified and directed. A Ray I personality will express the third fire through will and drive; a Ray II through sensitivity; a Ray VII through order and ritual, and so on.
 

@@ -84,7 +84,9 @@ The threefold division among the Agnishvattas who worked with Earth at individua
 
 > *"the domination and control of the Agnishvattas, achieve something of which even the illuminated mind of the highest Dhyan-chohan cannot yet conceive."* (TCF, ~23309)
 
-**What cannot be stated:** The full mystery of the Manasaputras is concealed within their connection to the fifth Hierarchy and the secret of buddhi — the sixth or Christ principle. This "cannot be mentioned outside initiated circles. It holds hid the possibility of egoic unfoldment, and keeps secret the karma of the Heavenly Men, the five Kumaras" (TCF, ~23799–23802). Bailey states explicitly that further revelation on cosmic manas cannot be given at this time.
+**What cannot be stated:** The full mystery of the Manasaputras is concealed within their connection to the fifth Hierarchy and the secret of buddhi — the sixth or Christ principle. This "cannot be mentioned outside initiated circles. It holds hid the possibility of egoic unfoldment, and keeps secret the karma of the Heavenly Men, the five [[kumaras|Kumaras]]" (TCF, ~23799–23802). Bailey states explicitly that further revelation on cosmic manas cannot be given at this time.
+
+**The Kumara connection made explicit:** the Lord of Venus — one of the five [[kumaras]] — is stated to embody in Himself the function of the fifth Hierarchy of Agnishvattas (TCF, ~25303–25310). The Kumaras are this same manasic principle concentrated at planetary scale; the Agnishvattas are it diffused across every incarnating human unit. See [[kumaras]] for the concentrated counterpart.
 
 ---
 
@@ -97,4 +99,6 @@ The threefold division among the Agnishvattas who worked with Earth at individua
 - The process they produce → [[initiation]]
 - Correspondence at macrocosmic scale → [[the-logos]], [[macrocosm-microcosm]]
 - The planetary heart centre and Venus connection → [[the-logos]]
+- The concentrated, planetary-scale counterpart of this same manasic principle → [[kumaras]]
 - Full synthesised treatment → `outputs/agnishvattas-arrival-and-destiny.md`
+- Comparative treatment with the Kumaras → `outputs/agnishvattas-and-kumaras.md`
